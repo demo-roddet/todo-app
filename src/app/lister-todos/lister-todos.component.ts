@@ -2,8 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-lister-todos',
-  templateUrl: './lister-todos.component.html',
-  styleUrls: ['./lister-todos.component.css']
+  templateUrl: './lister-todos.component.html'
 })
 export class ListerTodosComponent implements OnInit {
 
